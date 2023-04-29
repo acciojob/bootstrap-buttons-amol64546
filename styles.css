@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#button-5{
+	display:block;
+	width: 100%;
+}
+
+#button-2{
+	background-color: white;
+	color: black;
+}
